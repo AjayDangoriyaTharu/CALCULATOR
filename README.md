@@ -65,7 +65,7 @@ Runs the app in the development mode.\
 
 Click in live server given in the Visual Code Application.
 
-Open [http://localhost:3000](http://127.0.0.1:5500/index.html) to view it in your browser.
+Open http://127.0.0.1:5500/index.html to view it in your browser.
 
 ### `OR`
 
