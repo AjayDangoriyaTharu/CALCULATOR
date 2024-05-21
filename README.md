@@ -41,9 +41,9 @@
 <div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049" height="40" alt=" HTML logo"  />
   <img width="12" />
-  <img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo-500x313.png" height="40" alt="CSS logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/512px-CSS3_logo.svg.png?20210705212817" height="40" alt="CSS logo"  />
   <img width="12" />
-  <img src="[https://cdn.worldvectorlogo.com/logos/material-ui-1.svg](https://i0.wp.com/theicom.org/wp-content/uploads/2016/03/js-logo.png?resize=300%2C300&ssl=1)" height="40" alt="JAVASCRIPT logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" height="40" alt="JAVASCRIPT logo"  />
   <img width="12" />
 
 
