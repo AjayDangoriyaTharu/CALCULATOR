@@ -8,11 +8,11 @@
 }
 
 .container {
-  height: 97vh;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(45deg , #ea59ba 20%, rgb(54, 9, 191) 80%);
+  background: linear-gradient(45deg, #ea59ba 20%, rgb(54, 9, 191) 80%);
 }
 
 .calculator {
@@ -22,6 +22,16 @@
   box-shadow: inset 5px 5px 12px #ffffff, 5px 5px 12px rgba(0, 0, 0, 16);
   display: grid;
   grid-template-columns: repeat(4, 80px);
+}
+.head{
+  background-color: #ecf0f3;
+  justify-content: center;
+  align-items: center;
+  font-weight: 700;
+  margin-left: 100px;
+  margin-top: 20px;
+  color: #ac08f2;
+  
 }
 input {
   grid-column: span 4;
@@ -60,7 +70,8 @@ button {
     inset 5px 5px 12px rgba(0, 0, 0, 0.16);
 }
 
-span{
-    font-size: 15px;
-    
+.power{
+  font-size: 15px;
+  justify-content: center;
+  align-items: center;
 }
